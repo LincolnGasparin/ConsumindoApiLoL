@@ -1,4 +1,4 @@
-// https://americas.api.riotgames.com/riot/account/v1/accounts/by-riot-id/xlvgx/br1?api_key=RGAPI-f6250c13-9323-40cc-96e2-87420dd7a59a
+
 
 
 import axios from "axios";
