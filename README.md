@@ -51,4 +51,8 @@ O processo de consulta e exibição das informações do jogador é dividido em 
 *   **Tailwind CSS** para estilização
 
 ---
+<<<<<<< HEAD
 *Este projeto foi criado para fins de estudo e demonstração do consumo de APIs.*
+=======
+*Este projeto foi criado para fins de estudo e demonstração do consumo de APIs.*
+>>>>>>> cdb492f45fc2f0c2462b468fe0c12231a5c12bf3
