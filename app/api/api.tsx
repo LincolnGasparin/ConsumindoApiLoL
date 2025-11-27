@@ -7,7 +7,7 @@ const api = axios.create({
   baseURL: "https://americas.api.riotgames.com/riot/account/v1/accounts/by-riot-id/",
 });
 
-const api_key = "RGAPI-a9fc6682-7252-4ddd-8ffe-1d9b7cf23afb";
+const api_key = process.env.API_KEY;
 
 const api_ranked = axios.create({
     baseURL: "https://br1.api.riotgames.com/lol/league/v4/entries/by-puuid/",
